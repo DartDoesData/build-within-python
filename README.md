@@ -2,7 +2,7 @@
 
 ## Week 2
 
-- Access [Day 2 materials](https://github.com/DartDoesData/python-practice/blob/main/Week_2_Day_2.ipynb)
+- Access [Day 2 materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_2_Day_2.ipynb)
 - Access [Day 1 materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week%202%20-%20Day%201.ipynb)
 
 ## Week 1
