@@ -1,6 +1,7 @@
 # Class activities
 
 ## Week 3
+- Access [Day 4 materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_3_Day_4.ipynb)
 - Access [Day 3 materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_3_Day_3.ipynb)
 - Access [Day 2 materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_3_Day_2.ipynb)
 - Access [Day 1 materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_3_Day_1.ipynb)
