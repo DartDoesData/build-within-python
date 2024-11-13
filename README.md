@@ -3,8 +3,8 @@
 ## Week 4
 - Access [Day 1 (part 1) materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_4_Day_1_part_1.ipynb)
 - Access [Day 1 (part 2) materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_4_Day_1_part_2.ipynb)
-- Access [Day 2 (warmup) materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_4_Day_2_warmup.ipynb)
-- Access [Day 2 materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_4_Day_2.ipynb)
+- Access [Day 2 materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_4_Day_2_warmup.ipynb)
+- Access [Day 3 materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_4_Day_3.ipynb)
 
 ## Week 3
 - Access [Day 5 materials](https://colab.research.google.com/github/DartDoesData/python-practice/blob/main/Week_3_Day_5.ipynb)
