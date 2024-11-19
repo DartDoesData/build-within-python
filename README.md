@@ -1,6 +1,7 @@
 # Class activities
 
 ## Week 5
+- Access [Day 2 materials](https://colab.research.google.com/github/DartDoesData/build-within-python/blob/main/Week_5/Week_5_Day_2.ipynb)
 - Access [Day 1 materials](https://colab.research.google.com/github/DartDoesData/build-within-python/blob/main/Week_5/Week_5_Day_1.ipynb)
 
 ## Week 4
